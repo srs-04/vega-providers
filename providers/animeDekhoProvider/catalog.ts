@@ -1,5 +1,5 @@
-export const catalog = [
-  { title: 'Latest', filter: '/latest' },
-  { title: 'Popular', filter: '/popular' },
+export const catalogues = [
+  { title: "Latest", filters: ["latest", "fastest"] },
+  { title: "Popular", filters: ["popular"] }
 ];
 export const genres = [];
